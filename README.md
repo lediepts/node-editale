@@ -1,2 +1,1 @@
 # node-editable
-# node-editale
